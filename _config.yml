@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Connectome of Zebrafish Hindbrain# the website title (if blank, full name will be used instead)
-first_name: Seung Lab
+title:  # the website title (if blank, full name will be used instead)
+first_name: Jingpeng 
 middle_name: 
-last_name: 
+last_name: Wu
 email: jwu@flatironinstitute.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
